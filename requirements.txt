@@ -1,5 +1,7 @@
 langchain
 gradio
+streamlit
+langchain-ollama
 
 
 
